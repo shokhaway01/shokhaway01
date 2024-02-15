@@ -1,4 +1,4 @@
-<img  alt="coding" width="800" src="https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif">
+<img  alt="coding" width="1200" src="https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif">
 <h1 align="center">Hi 👋, I'm Shohjakhon</h1>
 <h3 align="center">A passionate frontend developer from Tashkent,Uzbekistan</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
