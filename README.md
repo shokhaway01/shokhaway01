@@ -15,7 +15,7 @@
 
 - :zap: Являюсь студентом ТУИТ факультета Кибербезопасности.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/shokhaway) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shoxauey@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-shokhaway-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/shokhaway) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shoxauey@gmail.com)
 
 ---
 
