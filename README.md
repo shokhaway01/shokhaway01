@@ -19,7 +19,7 @@
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Социальные сети
 
   <div id="badges">
     <a href="https://www.youtube.com/channel/UCCB89acmRuFrjzFNoEyzgNg" target="_blank">
