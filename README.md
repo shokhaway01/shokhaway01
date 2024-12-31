@@ -17,7 +17,7 @@
 
 - :zap:   Студент ТУИТ ---> Кибербезопасности.
 
-- :mailbox: Мои контакты: [![Telegram Badge](https://img.shields.io/badge/-shokhaway-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/shokhaway) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shoxauey@gmail.com)
+- :mailbox: Мои контакты: [![Telegram Badge](https://img.shields.io/badge/-shokhaway-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/killinsheet) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shoxauey@gmail.com)
 
 ---
 
