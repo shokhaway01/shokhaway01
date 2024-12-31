@@ -1,11 +1,13 @@
 
-# Привет, я Шохжахон! | Strong Junior Frontend разработчик.
+# Добрый день, я Шохжахон! | Frontend REACT разработчик.
 
 ---
 
 ### :man_technologist: Обо мне
 
-Я Frontend разработчик, мой путь в it начался с IT PARK в 2021 году, где я закончил курс по Frontend-development. После курса был промежуток в год , где я отдалился от программирования и погрузился в себя во многих направлениях, пробовал освоить дизайнерские навыки в Adobe Photoshop, Adobe Illustrator, Figma, но интерес к веб разработке все рос и рос! И вот, полтора года назад, я снова начал заниматься Веб  разработкой вновь, где я уже обучался самостоятельно и углубленно и освоил такие современные технологии как React, Redux, Node.js, Mongo DB, Express.Js . В настоящее время чтобы поднять свой уровень еще выше в сфере программирования, активно ищу работу!
+Я — Frontend-разработчик, начавший свой путь в IT в 2021 году с курса по Frontend Development в IT Park. После завершения обучения я на время отвлёкся от программирования, погрузившись в изучение различных творческих направлений, включая работу с Adobe Photoshop, Illustrator и Figma. Однако моя страсть к веб-разработке лишь усиливалась.
+
+Полтора года назад я вернулся к программированию и посвятил себя углублённому изучению современных технологий. Сегодня в моём арсенале: React, Redux, Node.js, MongoDB и Express.js. Я продолжаю развиваться и активно ищу возможности применить свои навыки в реальных проектах, чтобы выйти на новый уровень в своей карьере.
 
 <p align="center">
  <img width="1200" src="assets/github-snake.svg" alt="snake"/>
@@ -13,9 +15,9 @@
 
 - :seedling: 
 
-- :zap: Являюсь студентом ТУИТ факультета Кибербезопасности.
+- :zap:   Студент ТУИТ ---> Кибербезопасности.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-shokhaway-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/shokhaway) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shoxauey@gmail.com)
+- :mailbox: Мои контакты: [![Telegram Badge](https://img.shields.io/badge/-shokhaway-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/shokhaway) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shoxauey@gmail.com)
 
 ---
 
