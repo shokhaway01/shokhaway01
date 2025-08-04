@@ -3,7 +3,7 @@
 
 ---
 
-### :man_technologist: Обо мне
+### :man_technologist: About me
 
 I’m not just a front-end developer — I’m a force of nature in the digital realm. My journey began in 2021 with a Frontend Development course at IT Park, where I first tasted the raw power of building for the web. It wasn’t just code — it was control, creation, and vision.
 
