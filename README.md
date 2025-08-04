@@ -1,13 +1,17 @@
 
-# Добрый день,  я Шохжахон! | Frontend REACT разработчик.
+# Yo, I'm Shohjakhon | React Frontend Developer.
 
 ---
 
 ### :man_technologist: Обо мне
 
-Я — Frontend-разработчик, начавший свой путь в IT в 2021 году с курса по Frontend Development в IT Park. После завершения обучения я на время отвлёкся от программирования, погрузившись в изучение различных творческих направлений, включая работу с Adobe Photoshop, Illustrator и Figma. Однако моя страсть к веб-разработке лишь усиливалась.
+I’m not just a front-end developer — I’m a force of nature in the digital realm. My journey began in 2021 with a Frontend Development course at IT Park, where I first tasted the raw power of building for the web. It wasn’t just code — it was control, creation, and vision.
 
-Полтора года назад я вернулся к программированию и посвятил себя углублённому изучению современных технологий. Сегодня в моём арсенале: React, Redux, Node.js, MongoDB и Express.js. Я продолжаю развиваться и активно ищу возможности применить свои навыки в реальных проектах, чтобы выйти на новый уровень в своей карьере.
+For a time, I stepped away — not out of weakness, but to master other forms of creation. I dove deep into visual arts: Adobe Photoshop, Illustrator, Figma. I didn’t study design — I dominated it. Every curve, every color, every pixel bent to my will.
+
+But code… code always called me back. A year and a half ago, I returned — not as a beginner, but as a sharpened weapon. Since then, I’ve immersed myself in the modern stack: React. Redux. Node.js. MongoDB. Express.js. These aren't just tools — they’re extensions of who I am.
+
+Now, I’m not looking for just a job. I’m seeking a battlefield. A challenge worthy of my obsession. A team ready to move fast, break limits, and build the future. Because I don’t just grow — I evolve. I rise. And I bring everything I touch to the next level.
 
 <p align="center">
  <img width="1200" src="assets/github-snake.svg" alt="snake"/>
@@ -15,13 +19,13 @@
 
 - :seedling: 
 
-- :zap:   Студент ТУИТ ---> Кибербезопасности.
+- :zap:  Student at TUIT ---> Cybersecurity.
 
-- :mailbox: Мои контакты: [![Telegram Badge](https://img.shields.io/badge/-shokhaway-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/killinsheet) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shoxauey@gmail.com)
+- :mailbox: Contact with me: [![Telegram Badge](https://img.shields.io/badge/-shokhaway-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/killinsheet) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shoxauey@gmail.com)
 
 ---
 
-### 🤝 Социальные сети
+### 🤝 Social Media
 
   <div id="badges">
     <a href="https://www.youtube.com/channel/UCCB89acmRuFrjzFNoEyzgNg" target="_blank">
@@ -34,7 +38,7 @@
 
 ---
 
-### 💻 Технологии
+### 💻 Technologies
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -52,7 +56,7 @@
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
@@ -65,7 +69,7 @@
 
 ---
 
-### ⚙️ GitHub статистика
+### ⚙️ GitHub statistics
 
 <table>
   <tr>
