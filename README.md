@@ -6,9 +6,9 @@
 
 ## 🌍 Languages
 
-- 🇺🇸 English (default)
-- 🇷🇺 [Русский](./README.ru.md)
-- 🇺🇿 [O'zbek](./README.uz.md)
+- 🇺🇸 English ✅
+- 🇷🇺 [Русский](./Readme.ru.md)
+- 🇺🇿 [O'zbek](./Readme.uz.md)
 
 ---
 
