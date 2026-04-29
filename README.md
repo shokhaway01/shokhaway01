@@ -1,85 +1,88 @@
+<p align="center">⚡ SHOKHAWAY ⚡</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:2c5364&height=220&section=header&text=SHOKHAWAY&fontSize=55&fontColor=00F0FF&animation=fadeIn"/> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Frontend+Engineer+(React+%7C+Next.js);Building+Scalable+Web+Systems;Cybersecurity+Student+(TUIT);Open+to+Opportunities"/> </p>
+<p align="center"> <a href="#-english">🇺🇸 English</a> • <a href="#-russian">🇷🇺 Русский</a> • <a href="#-uzbek">🇺🇿 O'zbek</a> </p>
+🇺🇸 English
 
-# Yo, I'm Shohjakhon | React Frontend Developer.
+<a name="english"></a>
 
----
+👨‍💻 About Me
 
-### :man_technologist: About me
+Frontend Engineer specializing in React & Next.js, with a strong focus on building scalable, maintainable, and user-centric web applications.
 
-I’m not just a front-end developer — I’m a force of nature in the digital realm. My journey began in 2021 with a Frontend Development course at IT Park, where I first tasted the raw power of building for the web. It wasn’t just code — it was control, creation, and vision.
+My journey started in 2021 at IT Park. Along the way, I developed a solid foundation not only in development, but also in UI/UX design (Figma, Photoshop) — which allows me to build products that are both functional and visually refined.
 
-For a time, I stepped away — not out of weakness, but to master other forms of creation. I dove deep into visual arts: Adobe Photoshop, Illustrator, Figma. I didn’t study design — I dominated it. Every curve, every color, every pixel bent to my will.
+Currently:
 
-But code… code always called me back. A year and a half ago, I returned — not as a beginner, but as a sharpened weapon. Since then, I’ve immersed myself in the modern stack: React. Redux. Node.js. MongoDB. Express.js. These aren't just tools — they’re extensions of who I am.
+🎓 Cybersecurity student at TUIT
+⚛️ Focused on modern frontend architecture
+🔄 Building fullstack-ready systems
+🚀 Open to internships and junior frontend roles
+🚀 What I Bring
+Clean, scalable React architecture
+Experience with Next.js (App Router)
+API integration & service-layer patterns
+State management (Redux)
+Responsive & performance-optimized UI
+Basic backend understanding (Node.js, Express, MongoDB)
+🛠 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,redux,scss,webpack,git&theme=dark"/> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Shokhaway01&theme=black-ice&hide_border=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shokhaway01&layout=compact&theme=vision-friendly-dark"/> </p>
+📬 Contact
+<p align="center"> <a href="https://t.me/killinsheet"> <img src="https://img.shields.io/badge/Telegram-Contact-00F0FF?style=for-the-badge&logo=telegram"/> </a> <a href="mailto:shoxauey@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/> </a> </p>
+🇷🇺 Русский
 
-Now, I’m not looking for just a job. I’m seeking a battlefield. A challenge worthy of my obsession. A team ready to move fast, break limits, and build the future. Because I don’t just grow — I evolve. I rise. And I bring everything I touch to the next level.
+<a name="russian"></a>
 
-<p align="center">
- <img width="1200" src="assets/github-snake.svg" alt="snake"/>
-</p>
+👨‍💻 Обо мне
 
-- :seedling: 
+Frontend-разработчик, специализируюсь на React и Next.js, создаю масштабируемые и удобные веб-приложения.
 
-- :zap:  Student at TUIT ---> Cybersecurity.
+Начал путь в 2021 году в IT Park. Помимо разработки, глубоко изучил дизайн (Figma, Photoshop), что позволяет создавать не только рабочие, но и визуально сильные продукты.
 
-- :mailbox: Contact with me: [![Telegram Badge](https://img.shields.io/badge/-shokhaway-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/killinsheet) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:shoxauey@gmail.com)
+Сейчас:
 
----
+🎓 Студент ТУИТ (кибербезопасность)
+⚛️ Развиваюсь в frontend архитектуре
+🔄 Работаю с API и fullstack подходом
+🚀 Открыт к стажировкам и junior позициям
+🚀 Мои навыки
+Чистая архитектура React-приложений
+Next.js (App Router)
+Работа с API (service layer)
+Redux
+Адаптивная верстка
+Основы backend (Node.js, Express, MongoDB)
+🛠 Технологии
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,redux,scss,webpack,git&theme=dark"/> </p>
+📬 Контакты
+<p align="center"> <a href="https://t.me/killinsheet"> <img src="https://img.shields.io/badge/Telegram-Написать-00F0FF?style=for-the-badge&logo=telegram"/> </a> <a href="mailto:shoxauey@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Почта-red?style=for-the-badge&logo=gmail"/> </a> </p>
+🇺🇿 O'zbek
 
-### 🤝 Social Media
+<a name="uzbek"></a>
 
-  <div id="badges">
-    <a href="https://www.youtube.com/channel/UCCB89acmRuFrjzFNoEyzgNg" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="Youtube"/>
-    </a>
-    <a href="https://vk.com/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-  </div>
+👨‍💻 Men haqimda
 
----
+Men React va Next.js yo‘nalishida frontend dasturchiman. Maqsadim — zamonaviy, tez va foydalanuvchi uchun qulay web ilovalar yaratish.
 
-### 💻 Technologies
+Yo‘lim 2021-yilda IT Park’da boshlangan. Keyinchalik dizayn (Figma, Photoshop) ni ham chuqur o‘rgandim, bu esa menga yanada sifatli mahsulotlar yaratishga yordam beradi.
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
-</div>
+Hozir:
 
----
-
-### 🛠 Tools:
-
-<div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### ⚙️ GitHub statistics
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Shokhaway01&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shokhaway01&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FilimonovAlexey)
+🎓 TUIT talabasi (kiberxavfsizlik)
+⚛️ Frontend arxitekturani o‘rganayapman
+🔄 API bilan ishlayman
+🚀 Amaliy tajriba va ish imkoniyatlariga ochiqman
+🚀 Ko‘nikmalarim
+React arxitekturasi
+Next.js
+API bilan ishlash
+Redux
+Responsive dizayn
+Node.js asoslari
+📬 Aloqa
+<p align="center"> <a href="https://t.me/killinsheet"> <img src="https://img.shields.io/badge/Telegram-Yozish-00F0FF?style=for-the-badge&logo=telegram"/> </a> <a href="mailto:shoxauey@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Xat-red?style=for-the-badge&logo=gmail"/> </a> </p>
+🐍 Activity
+<p align="center"> <img src="assets/github-snake.svg"/> </p>
+🖤 Signature
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:000000&height=120&section=footer"/> </p>
