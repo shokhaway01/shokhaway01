@@ -7,7 +7,7 @@
 ## 🌍 Tillar
 
 - 🇺🇸 [English](./README.md)
-- 🇷🇺 [Русский](./README.ru.md)
+- 🇷🇺 [Русский](./Readme.ru.md)
 - 🇺🇿 O'zbek (joriy)
 
 ---
