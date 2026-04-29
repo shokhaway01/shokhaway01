@@ -8,7 +8,7 @@
 
 - 🇺🇸 [English](./README.md)
 - 🇷🇺 Русский (текущий)
-- 🇺🇿 [O'zbek](./README.uz.md)
+- 🇺🇿 [O'zbek](./Readme.uz.md)
 
 ---
 
