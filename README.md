@@ -22,23 +22,6 @@ I build **scalable, fast, and user-focused web applications** using modern techn
 - 🎓 Cybersecurity student (TUIT)
 
 📍 Uzbekistan | 🌍 Open to remote opportunities
-
----
-
-## 🚀 Featured Project
-
-### 🏗️ GOLT-LITTY — Construction Platform  
-**Stack:** Next.js, TypeScript, i18n, REST API  
-
-- Multi-language website (i18n)
-- Admin panel with full CRUD
-- API service-layer architecture
-- Converted static → dynamic system
-
-👉 Result:
-- Easy content management
-- Scalable structure
-
 ---
 
 ## 🛠 Tech Stack
