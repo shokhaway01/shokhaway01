@@ -25,21 +25,6 @@ Men **zamonaviy va tez web ilovalar yarataman**.
 
 ---
 
-## 🚀 Loyiha
-
-### 🏗️ GOLT-LITTY  
-**Texnologiyalar:** Next.js, TypeScript  
-
-- Ko‘p tilli sayt  
-- Admin panel (CRUD)  
-- API bilan ishlash  
-- Dynamic tizim  
-
-👉 Natija:
-- Kontentni oson boshqarish  
-- Kengaytiriladigan tizim  
-
----
 
 ## 🛠 Texnologiyalar
 
