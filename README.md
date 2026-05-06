@@ -27,7 +27,7 @@ I build **scalable, fast, and user-focused web applications** using modern techn
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,redux,scss,git&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,tailwindcss,redux,scss,git&theme=dark"/>
 </p>
 
 ---
