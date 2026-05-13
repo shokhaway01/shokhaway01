@@ -16,7 +16,7 @@
 
 I build **scalable, fast, and user-focused web applications** using modern technologies.
 
-- ⚛️ React, Next.js (App Router)
+- ⚛️ React Js, Zustand, Next.js, Tailwindcss (App Router)
 - 🔄 REST API integration
 - 🧠 Clean architecture & performance
 - 🎓 Cybersecurity student (TUIT)
